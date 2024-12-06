@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Boris Guiñez Benítez
 
-### 🌟 **Desarrollador Front-End | Estudiante de Teología**
-> Apasionado por construir interfaces web impactantes y funcionales mientras profundizo en la teología para impactar mi comunidad.
+### 🌟 **Desarrollador Front-End | Ingeniero en Computacion e Informatica**
+> Apasionado por construir interfaces web impactantes y funcionales mientras profundizo en mejorar mis competencias y habilidades.
 
 ---
 
@@ -26,8 +26,8 @@
 ---
 
 ### 🎓 **Educación**
-- **Bachillerato en Teología Nazarena**  
-  Enfocado en principios de liderazgo y teología práctica.
+- **Ingeniero en computacion en Informatica**  
+  Enfocado en estar siempre al dia en un mundo muy cambiante en las tecnologias.
 - **Bootcamp Front-End Development**  
   Especializado en Vue.js, Firebase y diseño moderno.
 
