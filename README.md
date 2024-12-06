@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Boris Guiñez Benítez
 
-### 🌟 **Desarrollador Front-End | Ingeniero en Comp. e Inf. | Administrador de Sistemas | Analista de operaciones | Magister en Educación Superior | Desarrollador Full-Stack JavaScript**
+### 🌟 **Desarrollador Front-End | Ingeniero en Comp. e Inf. | Administrador de Sistemas | Analista de operaciones | Magister en Educación Superior**
 > Apasionado por construir interfaces web impactantes y funcionales mientras profundizo en mejorar mis competencias y habilidades.
 
 ---
