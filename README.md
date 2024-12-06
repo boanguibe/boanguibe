@@ -49,7 +49,7 @@
 ---
 
 ### 📞 **Contacto**
-- **Email:** [boris@example.com](mailto:boris@example.com)
+- **Email:** [boris@example.com](mailto:borisandres.guinez@gmail.com)
 - **LinkedIn:** [linkedin.com/in/borisguinez](#)
 - **GitHub:** [github.com/BorisGuinez](#)
 
