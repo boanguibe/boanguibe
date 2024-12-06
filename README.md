@@ -37,8 +37,12 @@
 ---
 
 ### 🎓 **Educación**
+- **Tecnico en Plataformas Informatica**  
+  Encargado de configurar, monitoriar equipos computacionales, servidores y programas.
 - **Ingeniero en computacion en Informatica**  
   Enfocado en estar siempre al dia en un mundo muy cambiante en las tecnologias.
+- **Magister en Educacion Superior**  
+  Docente en areas de Informatica, Programacion y Computacion.
 - **Bootcamp Front-End Development**  
   Especializado en Vue.js, Firebase y diseño moderno.
 
